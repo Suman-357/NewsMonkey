@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": null
+        },
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "publishedAt": null,
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNN",
+        "title": "Doctoral student arrested on murder charge in fatal shooting of UNC faculty member, source says - CNN",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiVGh0dHBzOi8vd3d3LmNubi5jb20vMjAyMy8wOC8yOS91cy91bmMtY2hhcGVsLWhpbGwtY2FtcHVzLXNob290aW5nLXR1ZXNkYXkvaW5kZXguaHRtbNIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-08-29T14:22:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Mark Schlabach",
+        "title": "Brooks Koepka among Zach Johnson's picks for U.S. Ryder Cup team - ESPN - ESPN",
+        "description": "Brooks Koepka was among Zach Johnson's six captain's picks for the United States Ryder Cup team.",
+        "url": "https://www.espn.com/golf/story/_/id/38282894/brooks-koepka-zach-johnson-picks-us-ryder-cup-team",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0829%2Fr1217184_1296x729_16%2D9.jpg",
+        "publishedAt": "2023-08-29T14:03:00Z",
+        "content": "A LIV Golf League captain will represent the United States when it takes on Europe in next month's Ryder Cup in Italy.\r\nFive-time major champion Brooks Koepka was among U.S. team captain Zach Johnson… [+4158 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Reuters",
+        "title": "Intensifying Idalia threatens Florida's Gulf Coast with storm surges - Reuters",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2J1c2luZXNzL2Vudmlyb25tZW50L2lkYWxpYS1zZXQtc2xhbS1mbG9yaWRhcy1ndWxmLWNvYXN0LXdlZG5lc2RheS1tYWpvci1odXJyaWNhbmUtMjAyMy0wOC0yOS_SAQA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-08-29T14:00:48Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "NFL roster cuts tracker 2023: Full list of team-by-team moves, cuts for all 32 clubs before deadline Tuesday - CBS Sports",
+        "description": "Teams have until 4 p.m. ET on Tuesday, Aug. 29 to trim their rosters down to 53",
+        "url": "https://www.cbssports.com/nfl/news/nfl-roster-cuts-tracker-2023-full-list-of-team-by-team-moves-cuts-for-all-32-clubs-before-deadline-tuesday/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/28/928af304-b763-4baf-a7c3-3411595d91c6/thumbnail/1200x675/27c3bef58d40c54dd77a837afd726b6e/gettyimages-1643009012.jpg",
+        "publishedAt": "2023-08-29T13:57:00Z",
+        "content": "The 2023 NFL season is just around the corner. Before then, however, teams must finalize their rosters, whittling them down from their offseason allowance of 90 players. \r\nUnlike last season, when te… [+2657 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Belleville News-Democrat"
+        },
+        "author": "Belleville News-Democrat",
+        "title": "Former Belleville resident, Althoff grad one of three Marines killed in Osprey crash - Belleville News-Democrat",
+        "description": null,
+        "url": "https://www.bnd.com/news/local/article278692879.html",
+        "urlToImage": null,
+        "publishedAt": "2023-08-29T13:55:02Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Gerrit De Vynck",
+        "title": "AI images are getting harder to spot. Google thinks it has a solution. - The Washington Post",
+        "description": "The tech giant unveiled a new watermark for AI-generated images, aiming to curb the spread of misinformation during the 2024 presidential campaign.",
+        "url": "https://www.washingtonpost.com/technology/2023/08/29/google-wants-watermark-ai-generated-images-stop-deepfakes/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GKZGO5JHVNCWPDBLKOVCXGC7M4.jpg&w=1440",
+        "publishedAt": "2023-08-29T13:32:52Z",
+        "content": "Comment on this story\r\nComment\r\nArtificial intelligence-generated images are becoming harder to distinguish from real ones as tech companies race to improve their AI products. As the 2024 presidentia… [+7030 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Investor's Business Daily"
+        },
+        "author": "Investor's Business Daily",
+        "title": "Dow Jones Futures Fall Amid Key Economic Data; Nio Skids, Pinduoduo Soars On Earnings - Investor's Business Daily",
+        "description": null,
+        "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-key-economic-data-nio-stock-skids-pinduoduo-soars-on-earnings/",
+        "urlToImage": null,
+        "publishedAt": "2023-08-29T13:25:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Stephen Sorace",
+        "title": "Australian neurosurgeon finds parasitic worm in woman’s brain while investigating 'mystery illness' - Fox News",
+        "description": "A 64-year-old patient is doing well after Australian doctors removed a 3-inch parasitic worm from her brain, and doctors are continuing to monitor her.",
+        "url": "https://www.foxnews.com/world/australian-neurosurgeon-finds-parasitic-worm-womans-brain-investigating-mystery-illness",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/08/australia-brain-worm.jpg",
+        "publishedAt": "2023-08-29T13:13:00Z",
+        "content": "A parasitic worm was found wriggling in the brain of a 64-year-old Australian woman suffering from a \"mystery illness,\" a neurosurgeon said on Tuesday.\r\nSurgeon Hari Priya Bandi discovered the 3-inch… [+2663 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Eminem and Vivek Ramaswamy revive battle between pop stars and politicians - BBC",
+        "description": "Politicians want to gain credibility by playing pop songs - but musicians don't want to lose theirs.",
+        "url": "https://www.bbc.com/news/entertainment-arts-66646344",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4756/production/_130926281_gettyimages-1370932429.jpg",
+        "publishedAt": "2023-08-29T13:00:44Z",
+        "content": "Whenever election season comes around, it's a safe bet that a politician will try to glean credibility by using a pop song on the campaign trail - only for the star who recorded it to \"ban\" them from… [+5182 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": "Gabe Hauari",
+        "title": "McDonald's sauce dispute leads to stabbing of Maryland teenage girl - USA TODAY",
+        "description": "A teenage Maryland girl was killed after a dispute over sauce led to a stabbing outside a Washington, D.C. McDonald's Sunday morning, reports say.",
+        "url": "https://www.usatoday.com/story/news/nation/2023/08/29/16-year-old-girl-stabbed-mcdonalds-sauce/70706011007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/presto/2022/11/28/USAT/cae5633d-47d9-4aef-8f7b-e36b727f5d07-AP_McDonalds-McPlant.jpg?crop=4331,2437,x0,y220&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2023-08-29T12:26:13Z",
+        "content": "A teenage girl is dead following a stabbing outside a Washington, D.C. McDonald's early Sunday morning, CBS affiliate WUSA-TV reported.\r\nAccording to DC police, they were called to a hospital around … [+1085 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": null
+        },
+        "author": null,
+        "title": null,
+        "description": null,
+        "url": null,
+        "urlToImage": null,
+        "publishedAt": null,
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Anna Matranga",
+        "title": "Pope Francis again draws criticism with remarks on Russia as Ukraine war rages - CBS News",
+        "description": "The pontiff urged Russian Catholic youth to embrace their heritage of the \"enlightened Russian Empire.\"",
+        "url": "https://www.cbsnews.com/news/pope-francis-russia-ukraine-war-russian-imperial-heritage-youth-remarks/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/29/2375ea02-b1fa-4bbd-85b8-e3e472454c4f/thumbnail/1200x630/4a86b3292c32ecbccdc2880ca454c824/pope-francis-1503298985.jpg?v=d305b8f74537e6fcb32d87e8b9acfe15",
+        "publishedAt": "2023-08-29T11:58:18Z",
+        "content": "Rome — Pope Francis has again waded into controversy with remarks about Russia amid President Vladimir Putin's ongoing war in Ukraine. The pontiff drew condemnation with remarks delivered to a gather… [+3942 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNBC",
+        "title": "Biden administration unveils first 10 drugs subject to Medicare price negotiations - CNBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmNuYmMuY29tLzIwMjMvMDgvMjkvMTAtZHJ1Z3MtdG8tZmFjZS1tZWRpY2FyZS1wcmljZS1uZWdvdGlhdGlvbnMtc2VlLXRoZS1saXN0Lmh0bWzSAWJodHRwczovL3d3dy5jbmJjLmNvbS9hbXAvMjAyMy8wOC8yOS8xMC1kcnVncy10by1mYWNlLW1lZGljYXJlLXByaWNlLW5lZ290aWF0aW9ucy1zZWUtdGhlLWxpc3QuaHRtbA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2023-08-29T11:37:25Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "AppleInsider"
+        },
+        "author": "Malcolm Owen",
+        "title": "Rumored iPhone 15 Pro box could break a packaging pattern - AppleInsider",
+        "description": "A leaker claims to know what Apple's packaging for the iPhone 15 Pro will look like, but the claim seems to break a pattern in how Apple displays the iPhone on the box.",
+        "url": "https://appleinsider.com/articles/23/08/29/rumored-iphone-15-pro-box-could-break-a-packaging-pattern",
+        "urlToImage": "https://photos5.appleinsider.com/gallery/56050-113796-iphone-15-box-rumor-xl.jpg",
+        "publishedAt": "2023-08-29T11:36:08Z",
+        "content": "A rumored iPhone 15 Pro box render [X/@chandlerbongzz]\r\nA leaker claims to know what Apple's packaging for the iPhone 15 Pro will look like, but the claim seems to break a pattern in how Apple displa… [+1644 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Vox"
+        },
+        "author": "Jen Kirby",
+        "title": "What’s going on with China’s economic slowdown? - Vox.com",
+        "description": "China’s economy, explained by an expert.",
+        "url": "https://www.vox.com/world-politics/2023/8/29/23845841/chinas-economy-xi-expert",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/W9wo9k_gi-sj4KfLEaCTlmmBE2s=/0x213:2890x1726/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24878690/1622674566.jpg",
+        "publishedAt": "2023-08-29T11:30:00Z",
+        "content": "By now youve probably heard, Chinas economy is not doing so well. \r\nThe countrys once-booming real estate sector is stalled. China has slipped into deflation. Foreign direct investment is down. So ar… [+20879 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Karen Gilchrist",
+        "title": "UK flight disruption will take 'days' to fix after technical glitch causes travel chaos - CNBC",
+        "description": "A technical glitch which caused hundreds of U.K. flights to be disrupted on Monday could take \"days\" more to fix.",
+        "url": "https://www.cnbc.com/2023/08/29/uk-flight-disruption-will-take-days-to-fix-after-technical-glitch.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107293098-1693301448403-gettyimages-1628807691-230828_gatwick_delays_010.jpeg?v=1693304848&w=1920&h=1080",
+        "publishedAt": "2023-08-29T10:27:28Z",
+        "content": "LONDON A technical glitch which has caused hundreds of U.K. flights to be disrupted could take \"days\" to fix, causing chaos for passengers during the busy summer travel period.\r\nHundreds of flights w… [+1502 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Lena H. Sun",
+        "title": "Dogs are key to stopping spread of deadly tick epidemic in U.S., Mexico - Washington Post - The Washington Post",
+        "description": "Rocky Mountain spotted fever is on the rise in parts of Mexico and the United States. Climate change and dogs could be crucial to the fight against the tick-borne scourge.",
+        "url": "https://www.washingtonpost.com/health/interactive/2023/tick-diseases-rocky-mountain-spotted-fever/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V54OIN5ZW524SHQLXIO3ZBZJVQ.jpg&w=1200",
+        "publishedAt": "2023-08-29T10:01:17Z",
+        "content": "EJIDO PADRE KINO, Mexico The boy came home from school weakened byfever, his ears burning-hot. Over the next few days, the 7-year-old got sicker vomitingand complaining of abdominal pain, his mother … [+16189 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Space.com"
+        },
+        "author": "Brett Tingley",
+        "title": "The rare Super Blue Moon rises on Aug. 30 and you can watch it online for free - Space.com",
+        "description": "This will be the last Super Blue Moon until 2037.",
+        "url": "https://www.space.com/super-blue-moon-august-2023-livestream",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/iKTrBPAKhj62YDDVM4myS8-1200-80.jpg",
+        "publishedAt": "2023-08-29T10:00:00Z",
+        "content": "The Super Blue Moon of 2023 is just a day away.\r\nOn Wednesday (Aug. 30), one of the biggest and brightest moons of the year will rise. This full moon is referred to as a Blue Moon\r\n, a term that can … [+3878 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "Nationwide poll reveals age haunts Biden vs. “crooked” Trump - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2023/08/29/biden-trump-2024-age-legal-issues",
+        "urlToImage": null,
+        "publishedAt": "2023-08-29T09:29:03Z",
+        "content": null
+      }
+    ]
+  }
